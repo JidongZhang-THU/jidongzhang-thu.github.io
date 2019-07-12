@@ -1,5 +1,5 @@
 
-# kickstar2016-Round.B-D 题解
+# kickstar2016-RoundB-D 题解
 https://code.google.com/codejam/contest/5254487/dashboard#s=p3
 #### C++代码
 ```cpp
