@@ -1,8 +1,8 @@
 # Site settings
-title: Canary Blog
+title: Hello92World Blog
 SEOTitle: ZJD的部落格|Hello92World Blog
 header-img: img/pagehome1.jpg
-email: hhhgggpps@gmail.com
+email: zhangjd14THU@gmail.com
 description: "Hello World"
 keyword: "Hello92World Home"
 url: "https://jidongzhang-thu.github.io"          # your host, for absolute URL
@@ -51,7 +51,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 60766904dab560d85c4d                            #生成的clientID
   clientSecret: 023a62f9067c73d7a1bc3993307063633dba3e6b   #生成的clientSecret
-  repo: alberthg.github.io    #仓库名称
+  repo: jidongzhang-thu.github.io    #仓库名称
   owner: JidongZhang-THU    #github用户名
   admin: JidongZhang-THU
   distractionFreeMode: true ##是否启用类似FB的阴影遮罩
